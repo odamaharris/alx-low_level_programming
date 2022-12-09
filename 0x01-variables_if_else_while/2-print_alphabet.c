@@ -1,17 +1,16 @@
 #include <stdio.h>
-#include <stdlib.h>
 
-/**
- * main - prit lower case alpabet using putchar
+/*
+ * main - prints alphabets using putchar
  *
- * Return: Always 0 (Success)
+ * Return: Always 0
  */
 
 int main(void)
 {
 	char a = 'a';
 
-	for (char a = 'a'; a <= 'z'; a++)
+	while (a <= 'z')
 	{
 		putchar(a);
 	}
