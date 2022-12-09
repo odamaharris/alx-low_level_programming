@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main - main funtion generate randomn number and chech last number, compare to given numbers
+ * main - main funtion generate randomn number and chech last number
  *
  * Return: Always 0 (Success)
  */
