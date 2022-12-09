@@ -3,14 +3,14 @@
 /*
  * main - prints alphabets using putchar
  *
- * Return: Always 0
+ * Return Always 0 (Success)
  */
 
 int main(void)
 {
-	char a = 'a';
+	char a;
 
-	while (a <= 'z')
+	for (a = 'a'; a <= 'z'; a++)
 	{
 		putchar(a);
 	}
