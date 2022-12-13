@@ -3,7 +3,7 @@
 /**
  * print_last_digit -  prints the last digit of a number
  *
- * @b: represent last didgit
+ * @n: represent last didgit
  *
  * Return: according to code
  */
@@ -14,6 +14,8 @@ int print_last_digit(int n)
 
 	if (b < 0)
 		b *= -1;
+
 	_putchar(b + '0');
+
 	return (0);
 }
