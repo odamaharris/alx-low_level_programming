@@ -3,6 +3,8 @@
 /**
  *  _islower -  checks for lowercase character
  *
+ *  @c: representing lowercase letters
+ *
  *  Return: Always 0
  */
 
