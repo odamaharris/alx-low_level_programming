@@ -1,12 +1,10 @@
 #include <stdio.h>
 
- /**
-  * main - prints sum
-  *
-  * terms not exceeding 4000000.
-  *
-  * Return: Always 0.
-  */
+/**
+ * main - prints sum
+ *
+ * Return: Always 0
+ */
 
 int main(void)
 {
