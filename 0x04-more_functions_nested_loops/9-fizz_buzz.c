@@ -7,7 +7,7 @@
  * Return: Always 0
  */
 
-void Fizz_buzz(void)
+void Fizz_Buzz(void)
 {
 	int i;
 
@@ -27,5 +27,4 @@ void Fizz_buzz(void)
 	printf(" ");
 	}
 	printf("\n");
-	return (0);
 }
