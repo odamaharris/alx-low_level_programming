@@ -19,11 +19,11 @@ void Fizz_buzz(void)
 			printf("Buzz");
 		else if ((i % 15) == 0)
 			printf("FizzBuzz");
+		else if (i == 100)
+			printf("Buzz");
 		else
 			printf("%d", i);
 
-		if (i == 100)
-			continue;
 	printf(" ");
 	}
 	printf("\n");
