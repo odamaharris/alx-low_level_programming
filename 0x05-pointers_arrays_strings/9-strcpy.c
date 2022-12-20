@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * print_array - prints n elements of an array of integers
+ * _strcpy - prints n elements of an array of integers
  *
  * @dest: pointer
  * @src: number of element in array
